@@ -3,7 +3,7 @@
 # CURRENTLY IN BETA - USE AT YOUR OWN RISK
 
 # AntHead WW-BMG: Wristwatch using Bondtech RIGDA with dual filament sensors for the AntHead toolhead
-Originally designed by [ByThorsThunder](https://github.com/bythorsthunder) and adapted for the [A4T toolhead](https://github.com/Armchair-Heavy-Industries/A4T) by [DW-Tas](https://github.com/DW-Tas). Adapted from that adaptation for the [AntHead](https://github.com/PrintersForAnts/AntHead) toolhead.
+Originally designed by [ByThorsThunder](https://github.com/bythorsthunder) and adapted for the [A4T toolhead](https://github.com/Armchair-Heavy-Industries/A4T) by [DW-Tas](https://github.com/DW-Tas). Adapted from that adaptation for the [AntHead](https://github.com/PrintersForAnts/AntHead) toolhead (v72).
 
 ### Discord links
 For discussions around AntHead checkout the PrintersForAnts section at the DoomCube discord. </br>
